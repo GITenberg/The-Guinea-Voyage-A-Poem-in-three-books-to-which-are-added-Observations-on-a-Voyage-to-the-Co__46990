@@ -1,10 +1,16 @@
 _repo: The-Guinea-Voyage-A-Poem-in-three-books-to-which-are-added-Observations-on-a-Voyage-to-the-Co__46990
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stanfield, James Field
     gutenberg_agent_id: '44082'
     url: http://www.gutenberg.org/2009/agents/44082
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46990#The-Guinea-Voyage-A-Poem-in-three-books-to-which-are-added-Observations-on-a-Voyage-to-the-Co_
 gutenberg_issued: '2014-09-28'
 gutenberg_type: Text
 identifiers:
